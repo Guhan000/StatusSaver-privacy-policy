@@ -1,12 +1,11 @@
-# StatusSaver-privacy-policy
-Privacy Policy
+#Privacy Policy
 Protecting your privacy is important to us. We hope the following statement will help you understand how our app deals with the personal identifiable information ('PII') you may occasionally provide to us via Internet (the Google Play Platform).
 
 Generally, we do not collect any PII from you when you download our Android applications. To be specific, we do not require the consumers to get registered before downloading the application, nor do we keep track of the consumers' visits of our application, we even don't have a Server to store such PII.
 
 Information Collection and Use
 
-Log Data
+##Log Data
 
 We want to inform you that whenever you use our Service, in case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics only when you give use by email with your permission.
 
