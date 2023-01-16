@@ -24,4 +24,4 @@ We want to inform you that whenever you use our Service, in case of an error in 
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at aurorainc@gmail.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at aurora.in.inc@gmail.com.
